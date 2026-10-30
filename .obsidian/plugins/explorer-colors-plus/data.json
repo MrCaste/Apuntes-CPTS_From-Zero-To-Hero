@@ -1,0 +1,1642 @@
+{
+  "palette": [
+    {
+      "id": "red",
+      "name": "Modules",
+      "value": "#00D6B5"
+    },
+    {
+      "id": "orange",
+      "name": "Sub-Modules",
+      "value": "#FFB380"
+    },
+    {
+      "id": "yellow",
+      "name": "Notes",
+      "value": "#F5D76E"
+    },
+    {
+      "id": "green",
+      "name": "Green",
+      "value": "#30a46c"
+    },
+    {
+      "id": "teal",
+      "name": "Teal",
+      "value": "#12a594"
+    },
+    {
+      "id": "blue",
+      "name": "Blue",
+      "value": "#3e63dd"
+    },
+    {
+      "id": "purple",
+      "name": "Purple",
+      "value": "#8e4ec6"
+    },
+    {
+      "id": "pink",
+      "name": "Pink",
+      "value": "#d6409f"
+    },
+    {
+      "id": "gray",
+      "name": "Gray",
+      "value": "#8b8d98"
+    }
+  ],
+  "colors": [
+    {
+      "path": "⚔️ CPTS",
+      "color": "purple"
+    },
+    {
+      "path": "⚔️ CPTS/1. 👁️ Nmap & Network Enumeration",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/1. 👁️ Nmap & Network Enumeration/1. Host Enumeration",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/1. 👁️ Nmap & Network Enumeration/1. Host Enumeration/1. Descubrimiento de hosts con Nmap.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/1. 👁️ Nmap & Network Enumeration/1. Host Enumeration/2. Escaneo de hosts y puertos.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/1. 👁️ Nmap & Network Enumeration/1. Host Enumeration/3. Guardando los resultados de Nmap.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/1. 👁️ Nmap & Network Enumeration/1. Host Enumeration/4. Enumeración de servicios.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/1. 👁️ Nmap & Network Enumeration/1. Host Enumeration/5. Nmap Scripting Engine (NSE).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/1. 👁️ Nmap & Network Enumeration/1. Host Enumeration/6. Rendimiento de Nmap.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/1. 👁️ Nmap & Network Enumeration/2. Bypass Security Measures",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/1. 👁️ Nmap & Network Enumeration/2. Bypass Security Measures/1. Evasión de Firewalls e IDS - IPS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/1. Host Based Enumeration",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/1. Host Based Enumeration/1. FTP y TFTP.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/1. Host Based Enumeration/2. SMB (Server Message Block).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/1. Host Based Enumeration/3. NFS (Network File System).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/1. Host Based Enumeration/4. DNS (Domain Name System).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/1. Host Based Enumeration/5. SMTP (Simple Mail Transfer Protocol).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/1. Host Based Enumeration/6. Footprinting IMAP - POP3.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/1. Host Based Enumeration/7. SNMP.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/1. Host Based Enumeration/8. MySQL.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/1. Host Based Enumeration/9. MSSQL.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/1. Host Based Enumeration/10. Oracle TNS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/2. Remote Management Protocols",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/2. Remote Management Protocols/1. Protocolos de gestión remota de Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/2. 🫆 Footprinting/2. Remote Management Protocols/2. Protocolos de Administración Remota de Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/1. DNS & Subdomains",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/1. DNS & Subdomains/1. DNS (Domain Name System).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/1. DNS & Subdomains/2. Explorando el DNS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/1. DNS & Subdomains/3. Subdominios.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/1. DNS & Subdomains/4. Fuerza bruta de subdominios (Subdomain Brute-Force Enumeration).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/1. DNS & Subdomains/5. Transferencias de zona DNS (DNS Zone Transfers).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/1. DNS & Subdomains/6. Virtual Hosts (VHosts).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/1. DNS & Subdomains/7. Certificate Transparency Logs (CT).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/2. Fingerprinting",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/2. Fingerprinting/1. Fingerprinting (Análisis de huella digital).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/3. Crawling",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/3. Crawling/1. Web Crawling (Rastreo web).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/3. Crawling/2. robots.txt.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/3. Crawling/3. URI bien conocidos (.well-known).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/3. 🔍 Information Gathering/3. Crawling/4. Bichos rastreros (Creepy Crawlies).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/4. ↔️ File Transfers",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/4. ↔️ File Transfers/1. File transfer methods",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/4. ↔️ File Transfers/1. File transfer methods/1. File Transfers archivos en Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/4. ↔️ File Transfers/1. File transfer methods/2. File Transfers — Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/4. ↔️ File Transfers/1. File transfer methods/3. Transferring Files with Code.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/4. ↔️ File Transfers/1. File transfer methods/4. Miscellaneous File Transfer Methods.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/4. ↔️ File Transfers/1. File transfer methods/5. Protected File Transfers.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/1. Shell Basics",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/1. Shell Basics/1. Anatomía de un shell.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/1. Shell Basics/2. Shells de enlace (Bind Shells).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/1. Shell Basics/3. Reverse Shells (Shells Inversas).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/2. Payloads",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/2. Payloads/1. Introduction to Payloads (Introducción a los Payloads).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/2. Payloads/2. Automating Payloads & Delivery with Metasploit.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/2. Payloads/3. Elaboración de payloads con MSFvenom.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/3. Windows Shells",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/3. Windows Shells/1. Infiltrando Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/4. NIX Shells",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/4. NIX Shells/1. Infiltración en Unix - Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/4. NIX Shells/2. Generación de shells interactivas.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/5. Web Shells",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/5. Web Shells/1. Introducción a las Web Shells.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/5. Web Shells/2. Laudanum - una Web Shell para gobernarlas a todas.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/5. Web Shells/3. Antak Webshell.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/5. 🐚 Shells & Payloads/5. Web Shells/4. Web Shells en PHP.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/1. MSF Components",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/1. MSF Components/1. Módulos de Metasploit.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/1. MSF Components/2. Targets (Objetivos) en Metasploit.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/1. MSF Components/3. Payloads en Metasploit.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/1. MSF Components/4. Encoders en Metasploit.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/1. MSF Components/5. Bases de datos en Metasploit Framework.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/1. MSF Components/6. Plugins y Mixins en Metasploit Framework.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/2. MSF Sessions",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/2. MSF Sessions/1. Sesiones y Jobs en Metasploit Framework.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/2. MSF Sessions/2. Sesiones y Meterpreter.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/3. Additional Features",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/3. Additional Features/1. Escribir e importar módulos de Metasploit.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/3. Additional Features/2. Introducción a MSFVenom.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/6. 💥 Metasploit Framework/3. Additional Features/3. Evasión de Firewall e IDS - IPS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/1. Password Cracking Techniques",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/1. Password Cracking Techniques/1. Introducción al Password Cracking.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/1. Password Cracking Techniques/2. Introducción a John the Ripper.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/1. Password Cracking Techniques/3. Introducción a Hashcat.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/1. Password Cracking Techniques/4. Creación de listas de palabras y reglas personalizadas.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/1. Password Cracking Techniques/5. Crackeo de archivos protegidos.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/1. Password Cracking Techniques/6. Descifrado de archivos protegidos.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/2. Remote Password Attacks",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/2. Remote Password Attacks/1. Network Services.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/2. Remote Password Attacks/2. Pulverización, relleno y credenciales por defecto.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/3. Extracting Passwords from Windows Systems",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/3. Extracting Passwords from Windows Systems/1. Proceso de autenticación de Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/3. Extracting Passwords from Windows Systems/2. Ataque a SAM, SYSTEM y SECURITY.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/3. Extracting Passwords from Windows Systems/3. Atacando LSASS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/3. Extracting Passwords from Windows Systems/4. Atacando el Administrador de Credenciales de Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/3. Extracting Passwords from Windows Systems/5. Atacando Active Directory y NTDS.dit.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/3. Extracting Passwords from Windows Systems/6. Búsqueda de credenciales en Windows (Credential Hunting).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/4. Extracting Passwords from Linux Systems",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/4. Extracting Passwords from Linux Systems/1. Proceso de autenticación de Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/4. Extracting Passwords from Linux Systems/2. Búsqueda de credenciales en Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/5. Extracting Passwords from the Network",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/5. Extracting Passwords from the Network/1. Búsqueda de credenciales en el tráfico de red.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/5. Extracting Passwords from the Network/2. Búsqueda de credenciales en recursos compartidos de red.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/6. Windows Lateral Movement Techniques",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/6. Windows Lateral Movement Techniques/1. Pass the Hash (PtH).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/6. Windows Lateral Movement Techniques/2. Pass the Ticket (PtT) desde Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/6. Windows Lateral Movement Techniques/3. Pass the Ticket (PtT) desde Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/7. ⛓️‍💥 Passwords Attacks/6. Windows Lateral Movement Techniques/4. Pass-the-Certificate.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/1. FTP",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/1. FTP/1. Attacking FTP.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/1. FTP/2. Latest FTP Vulnerabilities.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/2. SMB",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/2. SMB/1. Attacking SMB.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/2. SMB/2. Latest SMB Vulnerabilities.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/3. SQL Databases",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/3. SQL Databases/1. Attacking SQL Databases.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/3. SQL Databases/2. Latest SQL Vulnerabilities.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/4. RDP",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/4. RDP/1. Attacking RDP.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/4. RDP/2. Latest RDP Vulnerabilities.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/5. DNS",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/5. DNS/1. Attacking DNS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/5. DNS/2. Latest DNS Vulnerabilities.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/6. SMTP",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/6. SMTP/1. Atacando los servicios de correo electrónico.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/8. 💻 Attacking Common Services/6. SMTP/2. Últimas vulnerabilidades de los servicios de correo electrónico.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/1. SSH Portforwarding",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/1. SSH Portforwarding/1. Redirección dinámica de puertos con SSH y tunelización SOCKS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/1. SSH Portforwarding/2. Redirección de Puertos Remota - Inversa con SSH.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/1. SSH Portforwarding/3. Tunelización y Redirección de Puertos en Meterpreter.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/2. Socat",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/2. Socat/1. Socat - Redirección con una Shell Inversa.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/2. Socat/2. Redirección con Socat y una Bind Shell.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/3. Pivoting Around Obstacles",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/3. Pivoting Around Obstacles/1. SSH para Windows - plink.exe.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/3. Pivoting Around Obstacles/2. Pivotaje SSH con - sshuttle.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/3. Pivoting Around Obstacles/3. Pivotaje en Servidores Web con Rpivot.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/3. Pivoting Around Obstacles/4. Redirección de Puertos (Port Forwarding) con Netsh de Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/4. Branching Out Our Tunnels",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/4. Branching Out Our Tunnels/1. Tunelización DNS con Dnscat2.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/4. Branching Out Our Tunnels/2. SOCKS5 Tunneling with Chisel.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/4. Branching Out Our Tunnels/3. ICMP Tunneling with SOCKS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/5. Double Pivots",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/9. 🕳️ Pivoting and Tunneling/5. Double Pivots/1. RDP and SOCKS Tunneling with SocksOverRDP.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/1. Initial Enumeration",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/1. Initial Enumeration/1. Principios de reconocimiento y enumeración externos.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/1. Initial Enumeration/2. Enumeración inicial del dominio (Initial Domain Enumeration).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/2. Sniffing out a Foothold",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/2. Sniffing out a Foothold/1. Envenenamiento de LLMNR NBT-NS desde Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/2. Sniffing out a Foothold/2. Envenenamiento LLMNR NBT-NS desde Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/3. Sighting In, Hunting For A User",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/3. Sighting In, Hunting For A User/1. Enumeración y obtención de políticas de contraseñas.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/3. Sighting In, Hunting For A User/2. Password Spraying - Creando una lista de usuarios objetivo.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/4. Spray Responsibly",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/4. Spray Responsibly/1. Internal Password Spraying desde Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/4. Spray Responsibly/2. Internal Password Spraying desde Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/5. Deeper Down the Rabbit Hole",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/5. Deeper Down the Rabbit Hole/1. Enumeración con credenciales desde Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/5. Deeper Down the Rabbit Hole/2. Enumeración con credenciales — Desde Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/5. Deeper Down the Rabbit Hole/3. Living Off the Land (Vivir del Terreno).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/6. Kerberoasting",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/6. Kerberoasting/1. Kerberoasting desde Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/6. Kerberoasting/2. Kerberoasting desde Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/7. ACLs",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/7. ACLs/1. Abuso de ACL en Active Directory (ACL Abuse).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/7. ACLs/2. Enumeración de ACL en Active Directory.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/7. ACLs/3. Tácticas de abuso de ACL — Active Directory.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/7. ACLs/4. DCSync.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/8. Stacking the Deck",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/8. Stacking the Deck/1. Acceso privilegiado.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/8. Stacking the Deck/2. Kerberos Double Hop Problem.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/8. Stacking the Deck/3. Vulnerabilidades de última generación.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/8. Stacking the Deck/4. Configuraciones incorrectas varias.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/9. Trust - Forest",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/9. Trust - Forest/1. Manual básico de relaciones de confianza de dominio.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/9. Trust - Forest/2. Atacando confianzas de dominio Hijo - Padre desde Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/9. Trust - Forest/3. Atacando confianzas de dominio Hijo - Padre desde Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/10. Attacking Forests",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/10. Attacking Forests/2. Abuso de confianza entre bosques desde Linux.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/10. 🏢 Active Directory/10. Attacking Forests/1. Abuso de Confianza entre Bosques desde Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/1. Basic Fuzzing",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/1. Basic Fuzzing/1. Directory Fuzzing con ffuf.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/1. Basic Fuzzing/2. Page Fuzzing con ffuf.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/1. Basic Fuzzing/3. Recursive Fuzzing con ffuf.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/2. Domain Fuzzing",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/2. Domain Fuzzing/1. Subdomain Fuzzing.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/2. Domain Fuzzing/2. Vhost Fuzzing.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/2. Domain Fuzzing/3. Filtering Results.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/3. Parametter Fuzzing",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/3. Parametter Fuzzing/1. GET Parameter Fuzzing.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/3. Parametter Fuzzing/2. POST Parameter Fuzzing.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/11. 📁 Fuzzing with Ffuf/3. Parametter Fuzzing/3. Value Fuzzing.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/12. 🔒 Login Brute Force",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/12. 🔒 Login Brute Force/1. Brute Force Attacks",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/12. 🔒 Login Brute Force/1. Brute Force Attacks/1. Brute Force Attacks.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/12. 🔒 Login Brute Force/1. Brute Force Attacks/2. Dictionary Attacks.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/12. 🔒 Login Brute Force/1. Brute Force Attacks/3. Hybrid Attacks.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/12. 🔒 Login Brute Force/2. Hydra",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/12. 🔒 Login Brute Force/2. Hydra/1. Hydra.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/12. 🔒 Login Brute Force/2. Hydra/2. Basic HTTP Authentication.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/12. 🔒 Login Brute Force/2. Hydra/3. Login Forms.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/12. 🔒 Login Brute Force/3. Custom Wordlists",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/12. 🔒 Login Brute Force/3. Custom Wordlists/1. Custom Wordlists.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/14. 🧩 SQLMap Essentials",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/14. 🧩 SQLMap Essentials/1. Building Attacks",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/14. 🧩 SQLMap Essentials/1. Building Attacks/1. Running SQLMap on an HTTP Request.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/14. 🧩 SQLMap Essentials/1. Building Attacks/2. Attack Tuning.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/14. 🧩 SQLMap Essentials/2. Database Enumeration",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/14. 🧩 SQLMap Essentials/2. Database Enumeration/1. Database Enumeration.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/14. 🧩 SQLMap Essentials/2. Database Enumeration/2. Advanced Database Enumeration.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/14. 🧩 SQLMap Essentials/3. Advanced SQLMap Usage",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/14. 🧩 SQLMap Essentials/3. Advanced SQLMap Usage/1. Bypassing Web Application Protections.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/14. 🧩 SQLMap Essentials/3. Advanced SQLMap Usage/2. OS Exploitation.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/15. 🕸 Cross-Site Scripting (XSS)",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/15. 🕸 Cross-Site Scripting (XSS)/1. XSS Basics",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/15. 🕸 Cross-Site Scripting (XSS)/1. XSS Basics/2. XSS reflejado (Reflected XSS).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/15. 🕸 Cross-Site Scripting (XSS)/1. XSS Basics/1. XSS almacenado (Stored XSS).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/15. 🕸 Cross-Site Scripting (XSS)/1. XSS Basics/3. DOM-based XSS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/15. 🕸 Cross-Site Scripting (XSS)/1. XSS Basics/4. Descubrimiento de XSS (XSS Discovery).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/15. 🕸 Cross-Site Scripting (XSS)/2. XSS Attacks",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/15. 🕸 Cross-Site Scripting (XSS)/2. XSS Attacks/1. Defacing mediante XSS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/15. 🕸 Cross-Site Scripting (XSS)/2. XSS Attacks/2. Phishing mediante XSS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/15. 🕸 Cross-Site Scripting (XSS)/2. XSS Attacks/3. Secuestro de sesión (Session Hijacking).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/2. SQL Injections",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/2. SQL Injections/1. Subvertir la Lógica de la Consulta.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/2. SQL Injections/2. Subvertir la Lógica de la Consulta.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/2. SQL Injections/3. Uso de comentarios.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/2. SQL Injections/4. Cláusula UNION.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/2. SQL Injections/5. Inyección UNION.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/1. MySQL",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/1. MySQL/1. Introducción a MySQL.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/1. MySQL/2. SQL Statements (Sentencias SQL).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/1. MySQL/3. Resultados de la Consulta.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/1. MySQL/4. Operadores SQL.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/3. Exploitation",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/3. Exploitation/1. Enumeración de bases de datos mediante SQL Injection.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/3. Exploitation/2. Lectura de archivos mediante SQL Injection.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/13. 💉 SQL-Injection Fundamentals (SQLI)/3. Exploitation/3. Escritura de archivos mediante SQL Injection.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)/1. File Disclosure",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)/1. File Disclosure/1. Local File Inclusion (LFI).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)/1. File Disclosure/2. Bypasses básicos.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)/1. File Disclosure/3. PHP Filters.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)/2. Remote Code Execution",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)/2. Remote Code Execution/1. PHP Wrappers.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)/2. Remote Code Execution/2. Remote File Inclusion (RFI).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)/2. Remote Code Execution/3. LFI y carga de archivos.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)/2. Remote Code Execution/4. Envenenamiento de logs (Log Poisoning).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)/3. Automation",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/16. 📑 File Inclusion (LFI-RFI)/3. Automation/1. Escaneo automatizado de vulnerabilidades LFI.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks/1. Basic Exploitation",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks/1. Basic Exploitation/1. Validación ausente.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks/1. Basic Exploitation/2. Explotación de subidas.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks/2. Bypassing Filters",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks/2. Bypassing Filters/1. Validación del lado del cliente (Client-Side Validation).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks/2. Bypassing Filters/2. Filtros de lista negra (Blacklist Filters).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks/2. Bypassing Filters/3. Filtros de lista blanca (Whitelist Filters).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks/2. Bypassing Filters/4. Filtros de tipo (Type Filters).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks/3. Other Uploads Attacks",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks/3. Other Uploads Attacks/1. Subidas de Archivos Limitadas.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/17. 📤 File Uploads Attacks/3. Other Uploads Attacks/2. Otros Ataques de Carga.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections/1. Exploitation",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections/1. Exploitation/1. Detección.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections/1. Exploitation/2. Inyectando Comandos.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections/1. Exploitation/3. Otros operadores de inyección.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections/2. Filter Evasion",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections/2. Filter Evasion/1. Identificando Filtros.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections/2. Filter Evasion/2. Evasión de filtros de espacios.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections/2. Filter Evasion/3. Bypassing Other Blacklisted Characters.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections/2. Filter Evasion/4. Bypassing Blacklisted Commands.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections/2. Filter Evasion/5. Advanced Command Obfuscation.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/18. 🐛 Command Injections/2. Filter Evasion/6. Herramientas de Evasión.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/1. CMS",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/1. CMS/1. WordPress — Enumeración.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/1. CMS/2. WordPress — Attacking WordPress.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/1. CMS/3. Joomla — Discovery & Enumeration.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/1. CMS/4. Joomla — Attacking Joomla.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/1. CMS/5. Drupal — Discovery & Enumeration.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/2. Servlet Containers",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/2. Servlet Containers/1. Tomcat — Discovery & Enumeration.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/2. Servlet Containers/2. Attacking Tomcat — Resumen.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/2. Servlet Containers/3. Jenkins — Discovery & Enumeration.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/2. Servlet Containers/4. Attacking Jenkins — Explotación.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/3. Network Monitoring Tools",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/3. Network Monitoring Tools/1. Splunk – Descubrimiento y Enumeración.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/3. Network Monitoring Tools/2. Splunk – Explotación (RCE).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/3. Network Monitoring Tools/3. PRTG Network Monitor – Discovery & Exploitation.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/4. Customer Service & Configuration Management",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/4. Customer Service & Configuration Management/1. osTicket – Descubrimiento, Enumeración y Explotación.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/4. Customer Service & Configuration Management/2. GitLab – Discovery & Enumeration.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/4. Customer Service & Configuration Management/3. Atacando GitLab.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/5. Common Gateway Interfaces",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/5. Common Gateway Interfaces/1. Atacando el CGI de Tomcat.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/5. Common Gateway Interfaces/2. Ataques CGI — Shellshock.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/6. Miscellaneous Applications",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/6. Miscellaneous Applications/1. ColdFusion — Descubrimiento y Enumeración.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/6. Miscellaneous Applications/2. Atacando ColdFusion.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/6. Miscellaneous Applications/3. Enumeración de tilde en IIS.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/6. Miscellaneous Applications/4. LDAP e inyección LDAP.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/6. Miscellaneous Applications/5. Atacar aplicaciones que se conectan a servicios.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/7. Thick Client Applications",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/7. Thick Client Applications/1. Ataque a aplicaciones de cliente pesado.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/20. 🌐 Attacking Common Applications/1. CMS/6. Attacking Drupal — HTB Academy.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/1. Information Gathering",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/1. Information Gathering/1. Enumeración del Entorno — Linux Privilege Escalation.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/1. Information Gathering/2. Linux Privilege Escalation — Enumeración de servicios y componentes internos.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/1. Information Gathering/3. Linux Privilege Escalation — Búsqueda de credenciales.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/2. Environment-based privesc",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/2. Environment-based privesc/1. Abuso de PATH (Path Abuse).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/2. Environment-based privesc/2. Abuso de Comodines (Wildcard Abuse).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/2. Environment-based privesc/3. Escapar de shells restringidas.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/3. Permissions-Based privesc",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/3. Permissions-Based privesc/1. Permisos especiales SUID, SGID y GTFOBins.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/3. Permissions-Based privesc/2. Abuso de permisos de Sudo.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/3. Permissions-Based privesc/3. Grupos con privilegios.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/3. Permissions-Based privesc/4. Capacidades de Linux (Capabilities).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/4. Service-Based Privesc",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/4. Service-Based Privesc/1. Servicios vulnerables — GNU Screen.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/4. Service-Based Privesc/2. Abuso de tareas Cron.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/4. Service-Based Privesc/3. Contenedores LXC-LXD.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/4. Service-Based Privesc/4. Docker.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/4. Service-Based Privesc/5. Kubernetes — Privilege Escalation.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/4. Service-Based Privesc/6. Logrotate — Privilege Escalation.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/4. Service-Based Privesc/7. Linux Privilege Escalation — Técnicas varias.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/5. Linux Internal-Based Privesc",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/5. Linux Internal-Based Privesc/1. Kernel Exploits (Linux Privilege Escalation).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/5. Linux Internal-Based Privesc/2. Shared Libraries (Linux Privilege Escalation).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/5. Linux Internal-Based Privesc/3. Shared Object Hijacking.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/5. Linux Internal-Based Privesc/4. Python Library Hijacking.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/6. Recent 0 Days",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/6. Recent 0 Days/2. Polkit.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/6. Recent 0 Days/1. Sudo — Privilege Escalation.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/21. 🐧 Linux Privesc 🔓/6. Recent 0 Days/3. Dirty Pipe — CVE-2022-0847.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/1. Getting the Lay of the Land",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/1. Getting the Lay of the Land/2. Enumeración Inicial.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/1. Getting the Lay of the Land/1. Situational Awareness.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/1. Getting the Lay of the Land/3. Comunicación con Procesos.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/2. Windows User Privileges",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/2. Windows User Privileges/1. SeImpersonate y SeAssignPrimaryToken.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/2. Windows User Privileges/2. SeDebugPrivilege.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/2. Windows User Privileges/3. SeTakeOwnershipPrivilege.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/3. Windows Group Privilege",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/3. Windows Group Privilege/1. Grupos integrados de Windows.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/3. Windows Group Privilege/2. Event Log Readers (Lectores del registro de eventos).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/3. Windows Group Privilege/3. DnsAdmins.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/3. Windows Group Privilege/4. Print Operators.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/3. Windows Group Privilege/5. Server Operators — Service Misconfiguration.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/4. Attacking the OS",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/4. Attacking the OS/1. UAC Bypass — DLL Hijacking.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/4. Attacking the OS/2. Weak Permissions.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/4. Attacking the OS/3. Exploits del kernel.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/4. Attacking the OS/4. Servicios vulnerables.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/4. Attacking the OS/5. Inyección y secuestro de DLL (DLL Injection & Hijacking).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/5. Credential Theft",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/5. Credential Theft/1. Búsqueda de credenciales (Credential Hunting).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/5. Credential Theft/2. Otros archivos — Búsqueda de credenciales.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/5. Credential Theft/3. Robo de credenciales adicional (Credential Hunting).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/6. Restricted Environments",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/6. Restricted Environments/1. Evasión de Citrix.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/7. Additional Techniques",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/7. Additional Techniques/1. Interactuando con los usuarios.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/7. Additional Techniques/2. Saqueo (Pillaging).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/7. Additional Techniques/3. Técnicas Varias (Miscellaneous Techniques).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/8. Legacy systems",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/8. Legacy systems/1. Windows Server 2008 — Enumeración y escalada de privilegios.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/22. 🪟 Windows Privesc 🔓/8. Legacy systems/2. Windows Privilege Escalation — Windows 7.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)",
+      "color": "red"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/1. HTTP Verb Tampering",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/1. HTTP Verb Tampering/1. Introducción a la manipulación de verbos HTTP (HTTP Verb Tampering).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/1. HTTP Verb Tampering/2. Omitir la Autenticación Básica (Bypassing Basic Authentication).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/1. HTTP Verb Tampering/3. Evasión de Filtros de Seguridad (Bypassing Security Filters).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/2. Insecure Direct Object References (IDOR)",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/2. Insecure Direct Object References (IDOR)/1. Intro to IDOR.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/2. Insecure Direct Object References (IDOR)/2. Identificación de IDORs.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/2. Insecure Direct Object References (IDOR)/3. Enumeración Masiva de IDOR (Mass IDOR Enumeration).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/2. Insecure Direct Object References (IDOR)/4. Eludiendo Referencias Codificadas (Bypassing Encoded References).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/2. Insecure Direct Object References (IDOR)/5. IDOR en APIs inseguras (IDOR in Insecure APIs).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/2. Insecure Direct Object References (IDOR)/6. Encadenamiento de Vulnerabilidades IDOR (Chaining IDOR Vulnerabilities).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/3. XML External Entity (XXE) Injection",
+      "color": "orange"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/3. XML External Entity (XXE) Injection/1. Introducción a XXE (XML External Entity Injection).md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/3. XML External Entity (XXE) Injection/2. XXE - Divulgación de archivos locales.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/3. XML External Entity (XXE) Injection/3. Exfiltración avanzada de archivos mediante XXE.md",
+      "color": "yellow"
+    },
+    {
+      "path": "⚔️ CPTS/19. 🕷️ Web Attacks (IDOR, XXE, HTTP Verb)/3. XML External Entity (XXE) Injection/4. Exfiltración de datos a ciegas (Blind XXE).md",
+      "color": "yellow"
+    }
+  ],
+  "applyTo": "text",
+  "cascade": false,
+  "backgroundStrength": 25
+}

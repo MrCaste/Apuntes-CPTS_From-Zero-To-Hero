@@ -1,0 +1,109 @@
+/* ==========================================
+   OBSIDIAN - HACK THE BOX GREEN
+   Dark background + HTB green + cyan
+   ========================================== */
+
+.theme-dark {
+    /* Fondos */
+    --background-primary: #0B121F;
+    --background-primary-alt: #111A27;
+    --background-secondary: #111A27;
+    --background-secondary-alt: #172331;
+
+    /* Paneles y elementos */
+    --background-modifier-border: #263746;
+    --background-modifier-hover: #1B2A39;
+    --background-modifier-active-hover: #223447;
+    --background-modifier-box-shadow: #00000055;
+
+    /* Texto */
+    --text-normal: #D7E0E8;
+    --text-muted: #A3B3BC;
+    --text-faint: #687D8D;
+
+    /* Acentos */
+    --color-accent: #9FEF00;
+    --color-accent-1: #9FEF00;
+    --color-accent-2: #50FA7B;
+
+    /* Enlaces */
+    --link-color: #00E5FF;
+    --link-color-hover: #9FEF00;
+    --link-external-color: #50FA7B;
+
+    /* Encabezados */
+    --h1-color: #9FEF00;
+    --h2-color: #50FA7B;
+    --h3-color: #00E5FF;
+    --h4-color: #D7E0E8;
+    --h5-color: #A3B3BC;
+    --h6-color: #A3B3BC;
+
+    /* Código */
+    --code-background: #111A27;
+    --code-normal: #50FA7B;
+
+    /* Selección */
+    --text-selection: #9FEF0033;
+
+    /* Etiquetas */
+    --tag-color: #9FEF00;
+    --tag-background: #9FEF0015;
+
+    /* Resaltado */
+    --text-highlight-bg: #9FEF0040;
+}
+
+/* Título principal */
+.theme-dark .inline-title {
+    color: #9FEF00;
+}
+
+/* Enlaces internos */
+.theme-dark .cm-hmd-internal-link,
+.theme-dark .internal-link {
+    color: #00E5FF;
+}
+
+.theme-dark .internal-link:hover {
+    color: #9FEF00;
+}
+
+/* Bloques de código */
+.theme-dark pre {
+    border: 1px solid #263746;
+    border-radius: 8px;
+}
+
+/* Código en línea */
+.theme-dark :not(pre) > code {
+    background-color: #172331;
+    color: #50FA7B;
+    border-radius: 4px;
+    padding: 2px 5px;
+}
+
+/* Citas */
+.theme-dark blockquote {
+    border-left: 3px solid #9FEF00;
+    background-color: #111A27;
+}
+
+/* Separadores */
+.theme-dark hr {
+    border-color: #263746;
+}
+
+/* Texto seleccionado */
+.theme-dark ::selection {
+    background-color: #9FEF0040;
+}
+
+/* Etiquetas */
+.theme-dark a.tag {
+    color: #9FEF00;
+    background-color: #9FEF0015;
+    border: 1px solid #9FEF0030;
+    border-radius: 5px;
+}
+

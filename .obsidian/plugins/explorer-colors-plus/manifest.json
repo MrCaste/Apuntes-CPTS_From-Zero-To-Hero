@@ -1,0 +1,10 @@
+{
+  "id": "explorer-colors-plus",
+  "name": "Explorer Colors Plus",
+  "version": "0.1.1",
+  "minAppVersion": "1.2.7",
+  "description": "Color files and folders in the file explorer, with a palette, cascading to children, and import from File Color.",
+  "author": "Siulved54",
+  "authorUrl": "https://github.com/perezamadorluisenrique-gif",
+  "isDesktopOnly": false
+}
