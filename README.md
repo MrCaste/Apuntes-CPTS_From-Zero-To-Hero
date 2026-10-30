@@ -49,12 +49,9 @@ También puedes leer los archivos `.md` directamente desde GitHub.
 ## 🧭 Contenido (módulos del path)
 
 ### 🔰 Fundamentos
-- [ ] Penetration Testing Process
-- [ ] Getting Started
 - [ ] Network Enumeration with Nmap
 - [ ] Footprinting
 - [ ] Information Gathering – Web Edition
-- [ ] Vulnerability Assessment
 
 ### 💥 Explotación y post-explotación
 - [ ] File Transfers
@@ -66,7 +63,6 @@ También puedes leer los archivos `.md` directamente desde GitHub.
 - [ ] Active Directory Enumeration & Attacks
 
 ### 🌐 Ataques web
-- [ ] Using Web Proxies
 - [ ] Attacking Web Applications with Ffuf
 - [ ] Login Brute Forcing
 - [ ] SQL Injection Fundamentals
@@ -82,7 +78,7 @@ También puedes leer los archivos `.md` directamente desde GitHub.
 - [ ] Linux Privilege Escalation
 - [ ] Windows Privilege Escalation
 
-### 📝 Cierre
+### 📝 Cierre (PROXIMAMENTE)
 - [ ] Documentation & Reporting
 - [ ] Attacking Enterprise Networks
 
