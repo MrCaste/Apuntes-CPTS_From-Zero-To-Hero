@@ -48,8 +48,6 @@ También puedes leer los archivos `.md` directamente desde GitHub.
 
 ## 🧭 Contenido (módulos del path)
 
-Marco con ✅ los módulos que ya tengo apuntados y completados.
-
 ### 🔰 Fundamentos
 - [ ] Penetration Testing Process
 - [ ] Getting Started
